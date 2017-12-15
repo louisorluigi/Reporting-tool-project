@@ -48,12 +48,12 @@ For instructions on how to load vagrant and run the newsdata.sql refer to 'Log A
 
 6) The results from the report will print in the command line. Refer to report.txt for an output example.
 
-####BUILT WITH
+#### BUILT WITH
 
 python3.0
 postgres sql
 vagrant
 
-####AUTHORS
+#### AUTHORS
 
 louisorluigi
